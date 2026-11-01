@@ -12,8 +12,8 @@ app.get("/", (request, response) => {
 // Route 2: About information
 app.get("/about", (request, response) => {
     response.status(200).json({
-        name: "G. Meghana",
-        section: "CSE GEN-AI-2A "
+        name: "G. Nonitha",
+        section: "CSE AI&ML-2B"
     });
 });
 
