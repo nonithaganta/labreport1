@@ -16,8 +16,8 @@ A foundational backend development lab demonstrating how to build web servers us
 
 ## 👤 Author Information
 
-- **Name:** G. Meghana
-- **Section:** CSE GEN-AI-2A
+- **Name:** G. Nonitha
+- **Section:** CSE AI&ML-2B
 
 ---
 
@@ -56,8 +56,8 @@ npm -v
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/meghanagogineni919-stack/LAB-1.git
-cd LAB-1
+git clone https://github.com/nonithaganta/labreport1.git
+cd labreport1
 npm install
 ```
 
